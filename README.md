@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="bannn.png" alt="Smart Eye Banner" width="100%">
+  <img src="bn.jpg" alt="Smart Eye Banner" width="100%">
 </p>
 
 # Smart Eye  
@@ -80,5 +80,4 @@ Tools included:
 
 ---
 
-## 📂 Project Structure (Simplified)
 
