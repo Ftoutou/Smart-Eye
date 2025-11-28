@@ -26,7 +26,7 @@ Built using **Python, PyQt5, and modern medical imaging libraries**, Smart Eye i
 Supports:  
 - **DICOM**
 - **NIfTI**
-- **JPEG / PNG / BMP**
+- **JPEG / PNG**
 - **OCT / Fundus / Angiography**
 
 Tools included:  
@@ -61,14 +61,13 @@ Tools included:
 - Python  
 - PyQt5  
 - NumPy / SciPy  
-- OpenCV  
+- itk 
 
 ### Medical Imaging  
 - NiBabel (NIfTI)  
 - PyDicom (DICOM)  
 - SimpleITK  
 - VTK / PyVista  
-- napari  
 
 ### Reporting & Graphics  
 - QPainter  
