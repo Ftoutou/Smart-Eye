@@ -1,0 +1,8 @@
+PyQt5
+napari
+numpy
+pydicom
+opencv-python
+nibabel
+simpleitk
+itk
